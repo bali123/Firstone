@@ -6,6 +6,7 @@ public class Firstcode {
 		System.out.println("hello world");
        int k=1;
 		float f=1.2f;
+		System.out.println("this is my world");
 
 
 	}
