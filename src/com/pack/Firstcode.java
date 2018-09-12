@@ -8,6 +8,7 @@ public class Firstcode {
 		float f=1.2f;
 		System.out.println("this is my world");
 		System.out.println("this is my country");
+		System.out.println("this is my state");
 
 
 	}
