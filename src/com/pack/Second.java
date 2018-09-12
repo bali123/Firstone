@@ -6,5 +6,6 @@ public class Second {
 	String cname;
 	float sal;
 	String gender;
+	String blood;
 
 }
